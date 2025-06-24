@@ -1,7 +1,7 @@
 import requests
 import streamlit as st
 
-API_URL = "http://localhost:5005"
+API_URL = "https://todo-app-1-a5nh.onrender.com"
 
 
 
